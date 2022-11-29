@@ -1,0 +1,1 @@
+pm2 --no-daemon start /home/site/wwwroot/ecosystem.config.js
